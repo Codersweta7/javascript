@@ -17,6 +17,6 @@
 // let booleanisloggedin = Boolean(isloggedin)
 // console.log(booleanisloggedin);
  let value=35;
- let stringvalue = String(value);
- console.log(value);
+ let stringvalue = String(value);// write console for this variable to print its value
+ console.log(stringvalue);
  console.log(typeof stringvalue);
