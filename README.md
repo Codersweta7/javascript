@@ -1,2 +1,2 @@
-LEARNING javascript from hitesh choudhary channel.
+LEARNING javascript from harshit vashisth channel.
 
