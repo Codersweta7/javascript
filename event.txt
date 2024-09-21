@@ -1,0 +1,23 @@
+intro to animation
+=>can give code at many places
+->index.html 
+->javascript file
+->addEventListener(  likhne ka taareka ->   // class ya id ka variable. addEventListener("operation"    , function(){jo bhi kaam krna h}) )
+*mouse events
+//click
+-onclick (property);
+-dblclick
+-contextmenu
+
+
+//event object
+jab bhi kissi bhi element pe event listener add hoga 
+js engine -- usse line by line execute krta h
+//browser --js engine +extra features(web api);
+//browser keeps on eye on which button is clicked and looks at callback function
+and also at operation to be carry out.
+1) gives callback function to js engine 
+and also the event information . 
+yeh info hume object ke form me milega
+
+
