@@ -1,0 +1,10 @@
+so this is how promise starts;
+->print script starts
+->array is assesed 
+->promise is sent in form of object to javascript memory an this work is done by browser. 
+->loop runs and sent to globa execution context in caall stack
+....once this task is compleete
+->print script end 
+_>promise task is sent to microtask queue; and then to call stack in global execution context.
+->settimeout things are sent to callback queue from there the content is sent to callstack.
+->microtask queue priority is always higher so between promises and setTimeout , promise is executed first.
